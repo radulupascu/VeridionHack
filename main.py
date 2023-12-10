@@ -37,3 +37,6 @@ def model_response_final(audio_duration=30, record=True):
   #   print(f"Predicted genre: ** {genre} **")
 
   return [title, out]
+
+if __name__ == '__main__':
+  model_response_final(record=False)
