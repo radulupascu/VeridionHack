@@ -4,7 +4,7 @@ from main import model_response_final
 from search_volume import company_score
 # from get_artists import get_artists
 
-API_KEY="pXStedvXkA9pMcNK1tWvx_4DesmTsIZ47qfTa6WkqFxgrCvCqJA0mpALQ53J"
+API_KEY=#
 
 def query_data():
 	prediction = model_response_final(record=True)
