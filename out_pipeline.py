@@ -1,3 +1,4 @@
+#pt driver.quit
 import json
 import time
 
@@ -11,6 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from query_data import query_data
 
 query_data()
+
 # Read company data from the JSON file
 with open('jsonCompanies.json', 'r') as file:
     company_data = json.load(file)
@@ -31,23 +33,24 @@ try:
     # Click the cookie consent button
     cookie_consent_button.click()
 except Exception as e:
-    print("Cookie consent button not found or clickable:", e)
+    pass
 
 
 companies_news_titles = {}
 count=0
 for company in company_data:
     count+=1
-    company_name = f"news {company['Company Name']}"
+    company_name = company["Company Name"] + " news"
     search_input = driver.find_element("name", "q")
     search_input.clear()  # Clear the search input field
     search_input.send_keys(company_name)
     search_input.send_keys(Keys.RETURN)
 
     #click news link
+    c = 2
     try:
         news_link = WebDriverWait(driver, 0).until(
-            EC.element_to_be_clickable((By.CSS_SELECTOR, ".LatpMc.nPDzT.T3FoJb:nth-child(0)"))
+            EC.element_to_be_clickable((By.CSS_SELECTOR, f".LatpMc.nPDzT.T3FoJb:nth-child({c})"))
         )
         news_link.click()
     except Exception as e:
@@ -65,7 +68,7 @@ for company in company_data:
         print(len(companies_news_titles))
     except Exception as e:
         pass
-    if count == 2:
+    if count == 3:
         break
     time.sleep(1)
 json_file_path = 'news_titles.json'
@@ -79,5 +82,5 @@ with open(json_file_path, 'w') as json_file:
 #.send_keys("alphabet nasdaq news")
 #search_input.send_keys(Keys.RETURN)
 
-time.sleep(10000)
+time.sleep(2)
 driver.quit()
