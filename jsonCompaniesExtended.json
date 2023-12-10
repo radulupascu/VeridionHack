@@ -1,0 +1,1484 @@
+{
+  "pagination": {
+    "next": "1bac6aa2143526196609577c257d4a"
+  },
+  "count": 2427,
+  "result": [
+    {
+      "soleadify_id": "4a833a03-93e5-11eb-a736-0f5b20ecb2f1",
+      "keywords": {
+        "match_snippets": [
+          "Record Labels",
+          "Alternative Rock"
+        ]
+      },
+      "company_name": "Rise Records",
+      "company_legal_names": null,
+      "company_commercial_names": [
+        "Rise Records"
+      ],
+      "main_country_code": "US",
+      "main_country": "United States",
+      "main_region": "Oregon",
+      "main_city": "Beaverton",
+      "main_street": "Northwest Greenbrier Parkway",
+      "main_street_number": "15455",
+      "main_postcode": "97006",
+      "main_latitude": 45.526268005371094,
+      "main_longitude": -122.83647918701172,
+      "locations": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "region": "Oregon",
+          "city": "Beaverton",
+          "postcode": "97006",
+          "street": "Northwest Greenbrier Parkway",
+          "street_number": "15455",
+          "latitude": 45.526268005371094,
+          "longitude": -122.83647918701172
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 1991,
+      "employee_count": 10,
+      "estimated_revenue": 11500000,
+      "short_description": "Rise Records is a record label based in Portland, Oregon.",
+      "long_description": "Rise Records is an American record label currently based in Beaverton, Oregon, mainly focusing on alternative rock, heavy metal, and punk rock music artists.",
+      "business_tags": [
+        "Flogging Molly",
+        "Alternative Rock",
+        "Record Labels",
+        "Rock Music",
+        "Shop Music",
+        "Recording Artists",
+        "Discover Music"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": null,
+      "primary_phone": "+13103188995",
+      "phone_numbers": [
+        "+13103188995"
+      ],
+      "primary_email": "support@merchnow.com",
+      "emails": null,
+      "other_emails": null,
+      "website_url": "https://riserecords.com/",
+      "website_domain": "riserecords.com",
+      "website_tld": "com",
+      "website_language_code": "en",
+      "facebook_url": "https://www.facebook.com/RiseRecords/",
+      "twitter_url": "https://twitter.com/riserecords",
+      "instagram_url": "https://www.instagram.com/riserecords/",
+      "linkedin_url": "https://linkedin.com/company/on-the-rise-records",
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": "https://www.youtube.com/user/riserecords",
+      "cms": "shopify",
+      "alexa_rank": null,
+      "technologies": [
+        "analytics: facebook custom audiences",
+        "cms: shopify",
+        "video players: youtube",
+        "javascript libraries: jquery - 3.4.1",
+        "javascript frameworks: jquery - 3.4.1",
+        "widgets: facebook",
+        "retargeting: facebook custom audiences",
+        "captchas: recaptcha",
+        "cdn: jsdelivr",
+        "ecommerce: cart functionality",
+        "tag managers: google tag manager",
+        "retargeting: facebook",
+        "marketing automation: klaviyo",
+        "cdn: cloudflare",
+        "lead generation: klaviyo",
+        "ecommerce: shopify",
+        "analytics: google analytics"
+      ],
+      "naics_2022": {
+        "primary": {
+          "code": "512250",
+          "label": "Record Production and Distribution"
+        },
+        "secondary": [
+          {
+            "code": "512230",
+            "label": "Music Publishers"
+          }
+        ]
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "4431",
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "3652",
+          "label": "Phonograph Records and Prerecorded Audio Tapes and Disks (integrated record companies, except duplication only)"
+        },
+        {
+          "code": "8999",
+          "label": "Services, NEC (record production)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": {
+        "code": "SV-ME",
+        "label": "Media & Entertainment"
+      },
+      "sics_subsector": {
+        "code": "SV.1",
+        "label": "Media"
+      },
+      "sics_sector": {
+        "code": "SV",
+        "label": "Services"
+      },
+      "ibc_insurance": [
+        {
+          "code": "489102",
+          "label": "Music / Sound Recording Studio"
+        },
+        {
+          "code": "832201",
+          "label": "Dance / Gymnastic / Martial Arts Schools"
+        },
+        {
+          "code": "740801",
+          "label": "Business Services - Not Otherwise Classified"
+        },
+        {
+          "code": "275001",
+          "label": "Commercial Printing"
+        },
+        {
+          "code": "569301",
+          "label": "Retail - Clothing (Family, incl Children's)"
+        }
+      ],
+      "created_at": "2019-11-24T11:06:48.000Z",
+      "last_updated_at": "2023-07-08T05:36:58.000Z"
+    },
+    {
+      "soleadify_id": "368c72a0-93e5-11eb-97db-273ba5953680",
+      "keywords": {
+        "match_snippets": [
+          "Record Labels",
+          "Heavy Rock"
+        ]
+      },
+      "company_name": "Small Stone",
+      "company_legal_names": [
+        "Small Stone Records Co."
+      ],
+      "company_commercial_names": [
+        "SMALL STONE RECORDS",
+        "Small Stone"
+      ],
+      "main_country_code": "US",
+      "main_country": "United States",
+      "main_region": "Michigan",
+      "main_city": "Detroit",
+      "main_street": null,
+      "main_street_number": null,
+      "main_postcode": null,
+      "main_latitude": null,
+      "main_longitude": null,
+      "locations": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "region": "Michigan",
+          "city": "Detroit",
+          "postcode": null,
+          "street": null,
+          "street_number": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 1995,
+      "employee_count": 5,
+      "estimated_revenue": 11500000,
+      "short_description": "Formed in 1995 in response to the sad state of the airwaves and the ever-increasing stagnation of the college rock scene, Small Stone Records has only two simple ethe: to be a thorn in the side of the marginalized corporate vacuum that has become the music industry, and to put out great fucking records.",
+      "long_description": "* This page is about the record label. For the Small Stone effect pedal, see Electro-Harmonix. Small Stone Records is an American record label based in Detroit, MI. It was founded in 1995 by Scott Hamilton and is a self-dubbed \"heavy rock\" label. The label has released a number of stoner rock compilation albums, as well as releases by Dozer, Los Natas, Halfway To Gone, Solace, and many others in the stoner rock, indie, blues-rock, and psychedelic genres.",
+      "business_tags": [
+        "Heavy Rock",
+        "Record Labels",
+        "Electro Harmonix",
+        "Compilation Albums",
+        "Stone Effect",
+        "Space Rock",
+        "Classic Rock",
+        "Southern Rock",
+        "Classic Soul"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": "Porn",
+      "primary_phone": "+12485416536",
+      "phone_numbers": [
+        "+12485416536"
+      ],
+      "primary_email": "sstone@smallstone.com",
+      "emails": null,
+      "other_emails": null,
+      "website_url": "smallstone.com",
+      "website_domain": "smallstone.com",
+      "website_tld": "com",
+      "website_language_code": "en",
+      "facebook_url": "https://www.facebook.com/smallstonerecords/",
+      "twitter_url": "https://twitter.com/ssrecordings",
+      "instagram_url": "https://www.instagram.com/smallstonerecords/",
+      "linkedin_url": "https://linkedin.com/company/small-stone-records-co.",
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": null,
+      "cms": "wordpress -  5.8.3",
+      "alexa_rank": null,
+      "technologies": [
+        "javascript libraries: jquery - 2.2.4",
+        "ui frameworks: bootstrap",
+        "web frameworks: bootstrap",
+        "cms: wordpress -  5.8.3",
+        "font scripts: google font api",
+        "databases: mysql",
+        "miscellaneous: revslider",
+        "programming languages: php - 7.4",
+        "javascript frameworks: jquery migrate - 3.3.0",
+        "font scripts: font awesome",
+        "web servers: apache",
+        "javascript libraries: jquery migrate - 3.3.0",
+        "wordpress plugins: revslider",
+        "blogging platforms: wordpress -  5.8.3",
+        "javascript frameworks: jquery - 2.2.4"
+      ],
+      "naics_2022": {
+        "primary": {
+          "code": "512250",
+          "label": "Record Production and Distribution"
+        },
+        "secondary": [
+          {
+            "code": "512240",
+            "label": "Sound Recording Studios"
+          }
+        ]
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "4431",
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "3652",
+          "label": "Phonograph Records and Prerecorded Audio Tapes and Disks (integrated record companies, except duplication only)"
+        },
+        {
+          "code": "8999",
+          "label": "Services, NEC (record production)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": {
+        "code": "SV-ME",
+        "label": "Media & Entertainment"
+      },
+      "sics_subsector": {
+        "code": "SV.1",
+        "label": "Media"
+      },
+      "sics_sector": {
+        "code": "SV",
+        "label": "Services"
+      },
+      "ibc_insurance": [
+        {
+          "code": "489102",
+          "label": "Music / Sound Recording Studio"
+        },
+        {
+          "code": "599602",
+          "label": "Retail- Musical Instruments (Sales/Repairs)"
+        },
+        {
+          "code": "740803",
+          "label": "Meeting and event planner"
+        },
+        {
+          "code": "398001",
+          "label": "Musical Instruments / Decorative Items Manufacturing"
+        },
+        {
+          "code": "792701",
+          "label": "Performing Arts Production"
+        }
+      ],
+      "created_at": "2019-11-24T11:17:06.000Z",
+      "last_updated_at": "2023-07-08T17:53:30.000Z"
+    },
+    {
+      "soleadify_id": "ed88f850-d851-11ec-995e-21aad8f01b51",
+      "keywords": {
+        "match_snippets": [
+          "Record Labels",
+          "Rock Music"
+        ]
+      },
+      "company_name": "Ardent Records",
+      "company_legal_names": null,
+      "company_commercial_names": [
+        "Ardent Records"
+      ],
+      "main_country_code": "US",
+      "main_country": "United States",
+      "main_region": "Tennessee",
+      "main_city": "Memphis",
+      "main_street": "Madison Avenue",
+      "main_street_number": "2000",
+      "main_postcode": "38104",
+      "main_latitude": 35.13723373413086,
+      "main_longitude": -89.9948501586914,
+      "locations": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "region": "Tennessee",
+          "city": "Memphis",
+          "postcode": "38104",
+          "street": "Madison Avenue",
+          "street_number": "2000",
+          "latitude": 35.13723373413086,
+          "longitude": -89.9948501586914
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 1959,
+      "employee_count": null,
+      "estimated_revenue": 23200000,
+      "short_description": "Ardent Records is an American record label based in Memphis, which was founded by John Fry in 1959.",
+      "long_description": "Ardent Records is an American record label based in Memphis, which was founded by John Fry in 1959. Ardent of the 1960s and 1970s featured pop music acts and was distributed by Stax Records from 1972 until 1975. It is best remembered today for Big Star, whose first two albums, released in 1972 and 1974, helped define the style known as power pop. The label was initially an attempt by the R&B-focused Stax to move into rock music, but distribution problems prevented any releases from succeeding. Big Star became widely known through 1980s reissues and the long delayed first release of Third/Sister Lovers, recorded in 1974. The label was revived in the 1990s with two divisions: Alternative Mainstream and Contemporary Christian. Former Big Star guitarist Alex Chilton released recordings on the Ardent mainstream division, which also released recordings by bands such as Spot, Jolene, Two Minutes Hate, The Idlewilds, Neighborhood Texture Jam, and Techno-Squid Eats Parliament. The mainstream division of Ardent Records was closed in the mid-1990s.",
+      "business_tags": [
+        "Record Labels",
+        "Musical Acts",
+        "Rock Music"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": null,
+      "primary_phone": null,
+      "phone_numbers": null,
+      "primary_email": null,
+      "emails": null,
+      "other_emails": null,
+      "website_url": "https://www.ardentrecords.com",
+      "website_domain": "ardentrecords.com",
+      "website_tld": "com",
+      "website_language_code": null,
+      "facebook_url": null,
+      "twitter_url": null,
+      "instagram_url": null,
+      "linkedin_url": null,
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": null,
+      "cms": null,
+      "alexa_rank": null,
+      "technologies": null,
+      "naics_2022": {
+        "primary": {
+          "code": "512250",
+          "label": "Record Production and Distribution"
+        },
+        "secondary": [
+          {
+            "code": "512230",
+            "label": "Music Publishers"
+          }
+        ]
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "4431",
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "3652",
+          "label": "Phonograph Records and Prerecorded Audio Tapes and Disks (integrated record companies, except duplication only)"
+        },
+        {
+          "code": "8999",
+          "label": "Services, NEC (record production)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": null,
+      "sics_subsector": null,
+      "sics_sector": null,
+      "ibc_insurance": null,
+      "created_at": "2022-05-21T16:51:03.279Z",
+      "last_updated_at": "2023-05-03T13:20:24.041Z"
+    },
+    {
+      "soleadify_id": "112fc7fb-93e5-11eb-8ad6-7326edce8d21",
+      "keywords": {
+        "match_snippets": [
+          "Record Labels",
+          "Kill Rock Stars"
+        ]
+      },
+      "company_name": "Kill Rock Stars",
+      "company_legal_names": null,
+      "company_commercial_names": [
+        "KRS",
+        "Kill Rock Stars"
+      ],
+      "main_country_code": "US",
+      "main_country": "United States",
+      "main_region": "Oregon",
+      "main_city": "Portland",
+      "main_street": null,
+      "main_street_number": null,
+      "main_postcode": null,
+      "main_latitude": null,
+      "main_longitude": null,
+      "locations": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "region": "Oregon",
+          "city": "Portland",
+          "postcode": null,
+          "street": null,
+          "street_number": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "region": "Washington",
+          "city": "Olympia",
+          "postcode": "98501",
+          "street": "State Avenue Northeast",
+          "street_number": "120",
+          "latitude": 47.045860290527344,
+          "longitude": -122.90145111083984
+        }
+      ],
+      "num_locations": 2,
+      "company_type": "Private",
+      "year_founded": 1991,
+      "employee_count": null,
+      "estimated_revenue": 18800000,
+      "short_description": "The double LP is housed in a 52 page cloth bound coffee table book with previously unseen photographs by JJ Gonson, handwritten lyrics, and reminiscences from Smith's friends and colleagues.",
+      "long_description": "Kill Rock Stars is an independent record label founded in 1991 by Slim Moon and Tinuviel Sampson, and based in both Olympia, Washington, and Portland, Oregon. The label has released a variety of work in different genres, but was originally known for its commitment to underground punk rock bands and the Olympia area music scene.",
+      "business_tags": [
+        "Limited Edition Vinyl",
+        "Coffee Table",
+        "Colored Vinyl",
+        "Record Covers",
+        "Black Inks",
+        "Record Labels",
+        "Music Scene"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": "Porn",
+      "primary_phone": "+13603579732",
+      "phone_numbers": [
+        "+13603579732"
+      ],
+      "primary_email": "submissions@killrockstars.com",
+      "emails": [
+        "feedback@killrockstars.com",
+        "sydney@killrockstars.com",
+        "submissions@killrockstars.com"
+      ],
+      "other_emails": [
+        "rob@killrockstars.com",
+        "braintrust@killrockstars.com"
+      ],
+      "website_url": "killrockstars.com",
+      "website_domain": "killrockstars.com",
+      "website_tld": "com",
+      "website_language_code": "en",
+      "facebook_url": "https://www.facebook.com/killrockstarsofficial/",
+      "twitter_url": "https://twitter.com/killrockstars",
+      "instagram_url": "https://www.instagram.com/killrockstarsofficial/",
+      "linkedin_url": null,
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": "https://www.youtube.com/killrockstars",
+      "cms": "shopify",
+      "alexa_rank": null,
+      "technologies": [
+        "analytics: facebook custom audiences",
+        "cms: shopify",
+        "video players: youtube",
+        "widgets: facebook",
+        "retargeting: facebook custom audiences",
+        "seo tool: facebook friendly",
+        "ecommerce: cart functionality",
+        "tag managers: google tag manager",
+        "retargeting: facebook",
+        "seo tool: twitter friendly",
+        "cdn: cloudflare",
+        "ecommerce: shopify",
+        "analytics: google analytics"
+      ],
+      "naics_2022": {
+        "primary": {
+          "code": "512250",
+          "label": "Record Production and Distribution"
+        },
+        "secondary": [
+          {
+            "code": "512290",
+            "label": "Other Sound Recording Industries"
+          }
+        ]
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "4431",
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "3652",
+          "label": "Phonograph Records and Prerecorded Audio Tapes and Disks (integrated record companies, except duplication only)"
+        },
+        {
+          "code": "8999",
+          "label": "Services, NEC (record production)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": {
+        "code": "EM-MM",
+        "label": "Metals & Mining"
+      },
+      "sics_subsector": {
+        "code": "EM.3",
+        "label": "Metals & Mining"
+      },
+      "sics_sector": {
+        "code": "EM",
+        "label": "Extractives & Minerals Processing"
+      },
+      "ibc_insurance": [
+        {
+          "code": "489102",
+          "label": "Music / Sound Recording Studio"
+        },
+        {
+          "code": "398001",
+          "label": "Musical Instruments / Decorative Items Manufacturing"
+        },
+        {
+          "code": "599602",
+          "label": "Retail- Musical Instruments (Sales/Repairs)"
+        },
+        {
+          "code": "569301",
+          "label": "Retail - Clothing (Family, incl Children's)"
+        },
+        {
+          "code": "569401",
+          "label": "Retail - Clothing (Women's, no Children's)"
+        }
+      ],
+      "created_at": "2019-11-24T11:12:54.000Z",
+      "last_updated_at": "2023-08-06T20:30:59.000Z"
+    },
+    {
+      "soleadify_id": "b8b37fa7-93e4-11eb-8ad6-7326edce8d21",
+      "keywords": {
+        "match_snippets": [
+          "Record Labels",
+          "record label focused on heavy metal and hard rock bands."
+        ]
+      },
+      "company_name": "Roadrunner Records",
+      "company_legal_names": null,
+      "company_commercial_names": [
+        "Roadrunner Records",
+        "Roadrunner Records UK."
+      ],
+      "main_country_code": "US",
+      "main_country": "United States",
+      "main_region": "New York",
+      "main_city": "New York",
+      "main_street": null,
+      "main_street_number": null,
+      "main_postcode": null,
+      "main_latitude": null,
+      "main_longitude": null,
+      "locations": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "region": "New York",
+          "city": "New York",
+          "postcode": null,
+          "street": null,
+          "street_number": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 1980,
+      "employee_count": null,
+      "estimated_revenue": 28900000,
+      "short_description": "Roadrunner Records is an American record label focused on heavy metal and hard rock bands.",
+      "long_description": "Roadrunner Records is an American record label focused on heavy metal and hard rock bands. Founded in the Netherlands in 1980, it is now a division of Warner Music Group and is based in New York City.",
+      "business_tags": [
+        "Animations & Video",
+        "Home Video",
+        "Record Labels"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": null,
+      "primary_phone": "+442085676762",
+      "phone_numbers": [
+        "+442085676762"
+      ],
+      "primary_email": null,
+      "emails": null,
+      "other_emails": null,
+      "website_url": "https://www.roadrunnerrecords.co.uk/",
+      "website_domain": "roadrunnerrecords.co.uk",
+      "website_tld": "co.uk",
+      "website_language_code": "en",
+      "facebook_url": "https://www.facebook.com/roadrunnerrecordsuk/",
+      "twitter_url": "https://twitter.com/Roadrunner_UK",
+      "instagram_url": "https://www.instagram.com/roadrunnerrecordsuk/",
+      "linkedin_url": null,
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": "https://www.youtube.com/user/RoadRunnerUK",
+      "cms": "wordpress",
+      "alexa_rank": null,
+      "technologies": [
+        "ecommerce: salesforce commerce cloud",
+        "operating systems: debian",
+        "javascript frameworks: jquery - 1.9.1",
+        "javascript libraries: jquery - 1.9.1",
+        "miscellaneous: onetrust",
+        "font scripts: google font api",
+        "blogging platforms: wordpress",
+        "lead generation: salesforce",
+        "crm: salesforce",
+        "video players: youtube",
+        "javascript libraries: modernizr",
+        "miscellaneous: optanon",
+        "databases: mysql",
+        "font scripts: typekit",
+        "captchas: recaptcha",
+        "cookie compliance: onetrust",
+        "tag managers: adobe dynamic tag management",
+        "font scripts: font awesome",
+        "programming languages: php - 8.0.22",
+        "javascript frameworks: modernizr",
+        "seo tool: facebook friendly",
+        "javascript libraries: lightbox",
+        "javascript frameworks: jquery ui - 1.10.3",
+        "cms: wordpress",
+        "ecommerce: cart functionality",
+        "widgets: google plus",
+        "javascript frameworks: lightbox",
+        "seo tool: twitter friendly",
+        "cdn: cloudflare",
+        "web servers: apache - 2.4.54",
+        "javascript libraries: jquery ui - 1.10.3",
+        "analytics: comscore"
+      ],
+      "naics_2022": {
+        "primary": {
+          "code": "512250",
+          "label": "Record Production and Distribution"
+        },
+        "secondary": null
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "4431",
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "3652",
+          "label": "Phonograph Records and Prerecorded Audio Tapes and Disks (integrated record companies, except duplication only)"
+        },
+        {
+          "code": "8999",
+          "label": "Services, NEC (record production)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": {
+        "code": "SV-ME",
+        "label": "Media & Entertainment"
+      },
+      "sics_subsector": {
+        "code": "SV.1",
+        "label": "Media"
+      },
+      "sics_sector": {
+        "code": "SV",
+        "label": "Services"
+      },
+      "ibc_insurance": null,
+      "created_at": "2019-11-23T22:08:04.000Z",
+      "last_updated_at": "2023-08-03T17:13:21.000Z"
+    },
+    {
+      "soleadify_id": "8df45a46-93e4-11eb-a746-fdabd18be9c6",
+      "keywords": {
+        "match_snippets": [
+          "Record Labels",
+          "record labels to specialise in rock and roll music."
+        ]
+      },
+      "company_name": "Albert Productions",
+      "company_legal_names": null,
+      "company_commercial_names": [
+        "Albert Ahv Productions",
+        "Albert Productions",
+        "Albert Records"
+      ],
+      "main_country_code": "AU",
+      "main_country": "Australia",
+      "main_region": "New South Wales",
+      "main_city": "Sydney",
+      "main_street": null,
+      "main_street_number": null,
+      "main_postcode": "2000",
+      "main_latitude": null,
+      "main_longitude": null,
+      "locations": [
+        {
+          "country_code": "AU",
+          "country": "Australia",
+          "region": "New South Wales",
+          "city": "Sydney",
+          "postcode": "2000",
+          "street": null,
+          "street_number": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 1963,
+      "employee_count": null,
+      "estimated_revenue": 8000000,
+      "short_description": "Albert Productions, a division of music publishing and recording company Albert Music, is one of Australia's longest established independent record labels to specialise in rock and roll music.",
+      "long_description": "Albert Productions, a division of music publishing and recording company Albert Music, is one of Australia's longest established independent record labels to specialise in rock and roll music. The label was founded in 1963 by Ted Albert, whose family owned and operated the Sydney music publishing house J. Albert & Son.",
+      "business_tags": [
+        "Music Publisher",
+        "Record Company",
+        "Record Labels"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": null,
+      "primary_phone": null,
+      "phone_numbers": null,
+      "primary_email": null,
+      "emails": null,
+      "other_emails": null,
+      "website_url": "https://www.albertmusic.com",
+      "website_domain": "albertmusic.com",
+      "website_tld": "com",
+      "website_language_code": null,
+      "facebook_url": null,
+      "twitter_url": null,
+      "instagram_url": null,
+      "linkedin_url": null,
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": null,
+      "cms": null,
+      "alexa_rank": null,
+      "technologies": null,
+      "naics_2022": {
+        "primary": {
+          "code": "512240",
+          "label": "Sound Recording Studios"
+        },
+        "secondary": null
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "7389",
+          "label": "Business Services, NEC (recording studios)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": null,
+      "sics_subsector": null,
+      "sics_sector": null,
+      "ibc_insurance": null,
+      "created_at": "2022-02-04T08:27:59.000Z",
+      "last_updated_at": "2023-04-13T22:37:27.802Z"
+    },
+    {
+      "soleadify_id": "c74904d1-93e4-11eb-aa66-9b8d95e2171b",
+      "keywords": {
+        "match_snippets": [
+          "Our clients include major and independent record labels, concert promoters, ad agencies,",
+          "Progressive rock music discography & reviews / from"
+        ]
+      },
+      "company_name": "Prog Archives",
+      "company_legal_names": null,
+      "company_commercial_names": [
+        "Prog Archives"
+      ],
+      "main_country_code": "CA",
+      "main_country": "Canada",
+      "main_region": "Quebec",
+      "main_city": "Saint-Georges",
+      "main_street": null,
+      "main_street_number": null,
+      "main_postcode": "G5Y 4H6",
+      "main_latitude": null,
+      "main_longitude": null,
+      "locations": [
+        {
+          "country_code": "CA",
+          "country": "Canada",
+          "region": "Quebec",
+          "city": "Saint-Georges",
+          "postcode": "G5Y 4H6",
+          "street": null,
+          "street_number": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 2006,
+      "employee_count": null,
+      "estimated_revenue": 1000000,
+      "short_description": "Progressive rock music discography & reviews / from Progarchives.com, the ultimate progressive rock website",
+      "long_description": "Prog Archives is an online fan-based website with information on progressive rock bands and musicians. Teams evaluate whether the band or musician should be added to the website or not. As of the summer of 2014, the website had web pages on 8,671 bands and musicians, which has grown 2023 to articles of about 70,725 album from 12,157 bands and artists, as well as more than 1,9 million ratings and reviews from 67.363 members. The website has regular and consistent reviews, biographies and discographies of all bands and albums it considers to be from the progressive rock genre. It has also categorised 22 subgenres of progressive rock.",
+      "business_tags": [
+        "Progressive Rock",
+        "Music Discography",
+        "Music Albums",
+        "Jethro Tull",
+        "Dark Side Of The Moon",
+        "Bands & Artists",
+        "Progressive Metal",
+        "Gig Reviews",
+        "Permanent Waves",
+        "Tubular Bells"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": null,
+      "primary_phone": null,
+      "phone_numbers": null,
+      "primary_email": null,
+      "emails": null,
+      "other_emails": null,
+      "website_url": "https://www.progarchives.com/",
+      "website_domain": "progarchives.com",
+      "website_tld": "com",
+      "website_language_code": "en",
+      "facebook_url": "https://www.facebook.com/Progarchives/",
+      "twitter_url": "https://twitter.com/progarchives",
+      "instagram_url": null,
+      "linkedin_url": null,
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": null,
+      "cms": null,
+      "alexa_rank": 605120,
+      "technologies": null,
+      "naics_2022": {
+        "primary": {
+          "code": "512250",
+          "label": "Record Production and Distribution"
+        },
+        "secondary": [
+          {
+            "code": "512230",
+            "label": "Music Publishers"
+          }
+        ]
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "4431",
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "3652",
+          "label": "Phonograph Records and Prerecorded Audio Tapes and Disks (integrated record companies, except duplication only)"
+        },
+        {
+          "code": "8999",
+          "label": "Services, NEC (record production)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": {
+        "code": "EM-MM",
+        "label": "Metals & Mining"
+      },
+      "sics_subsector": {
+        "code": "EM.3",
+        "label": "Metals & Mining"
+      },
+      "sics_sector": {
+        "code": "EM",
+        "label": "Extractives & Minerals Processing"
+      },
+      "ibc_insurance": null,
+      "created_at": "2019-11-24T01:41:39.000Z",
+      "last_updated_at": "2023-05-27T06:51:46.000Z"
+    },
+    {
+      "soleadify_id": "3d9a4583-cab3-11ec-b7b7-07e9210b2cdc",
+      "keywords": {
+        "match_snippets": [
+          "MeteorCity Records was one of the first record labels dedicated exclusively to Stoner",
+          "labels dedicated exclusively to Stoner rock, doom metal, sludge metal, drone"
+        ]
+      },
+      "company_name": "MeteorCity",
+      "company_legal_names": null,
+      "company_commercial_names": [
+        "MeteorCity"
+      ],
+      "main_country_code": "US",
+      "main_country": "United States",
+      "main_region": "New Mexico",
+      "main_city": "Albuquerque",
+      "main_street": "Central Avenue Southeast",
+      "main_street_number": "2132",
+      "main_postcode": "87106",
+      "main_latitude": 35.08060836791992,
+      "main_longitude": -106.62242889404297,
+      "locations": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "region": "New Mexico",
+          "city": "Albuquerque",
+          "postcode": "87106",
+          "street": "Central Avenue Southeast",
+          "street_number": "2132",
+          "latitude": 35.08060836791992,
+          "longitude": -106.62242889404297
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 1997,
+      "employee_count": null,
+      "estimated_revenue": 4200000,
+      "short_description": "MeteorCity Records is an American record label founded in 1997 by Jadd Shickler and Aaron Emmel in Albuquerque, New Mexico.",
+      "long_description": "MeteorCity Records is an American record label founded in 1997 by Jadd Shickler and Aaron Emmel in Albuquerque, New Mexico. With the release of its compilation album Welcome to MeteorCity showcasing young unsigned Kyuss-like bands, MeteorCity helped launch the stoner rock genre and many of the genre's first bands, plus side projects from members of well-known bands including The Atomic Bitchwax and Hermano. MeteorCity Records was one of the first record labels dedicated exclusively to Stoner rock, doom metal, sludge metal, drone metal and psychedelic rock.",
+      "business_tags": [
+        "Record Labels",
+        "Compilation Albums",
+        "Sludge Metal"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": null,
+      "primary_phone": "+15052328928",
+      "phone_numbers": [
+        "+15052328928"
+      ],
+      "primary_email": null,
+      "emails": null,
+      "other_emails": null,
+      "website_url": "meteorcity.com",
+      "website_domain": "meteorcity.com",
+      "website_tld": "com",
+      "website_language_code": null,
+      "facebook_url": "https://facebook.com/meteorcity",
+      "twitter_url": "https://twitter.com/meteorcity1",
+      "instagram_url": null,
+      "linkedin_url": null,
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": null,
+      "cms": null,
+      "alexa_rank": null,
+      "technologies": null,
+      "naics_2022": {
+        "primary": {
+          "code": "512240",
+          "label": "Sound Recording Studios"
+        },
+        "secondary": null
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "7389",
+          "label": "Business Services, NEC (recording studios)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": null,
+      "sics_subsector": null,
+      "sics_sector": null,
+      "ibc_insurance": null,
+      "created_at": "2022-03-06T12:46:21.000Z",
+      "last_updated_at": "2023-06-09T12:44:15.493Z"
+    },
+    {
+      "soleadify_id": "1d9dd957-93e5-11eb-919a-b3f9a5ad205c",
+      "keywords": {
+        "match_snippets": [
+          "Record Labels",
+          "entrepreneurial business and the #1 Independent Rock Record Label in the country."
+        ]
+      },
+      "company_name": "Victory Records",
+      "company_legal_names": [
+        "VICTORY RECORDS INC."
+      ],
+      "company_commercial_names": [
+        "Victory Records"
+      ],
+      "main_country_code": "US",
+      "main_country": "United States",
+      "main_region": "Illinois",
+      "main_city": "Chicago",
+      "main_street": "North Justine Street",
+      "main_street_number": "346",
+      "main_postcode": "60607",
+      "main_latitude": 41.887977600097656,
+      "main_longitude": -87.6659164428711,
+      "locations": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "region": "Illinois",
+          "city": "Chicago",
+          "postcode": "60607",
+          "street": "North Justine Street",
+          "street_number": "346",
+          "latitude": 41.887977600097656,
+          "longitude": -87.6659164428711
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 1989,
+      "employee_count": 32,
+      "estimated_revenue": 3200000,
+      "short_description": "Victory Records is an exciting, entrepreneurial business and the #1 Independent Rock Record Label in the country.",
+      "long_description": "Victory Records is a Chicago-based record label founded by Tony Brummel. It operates a music publishing company called \"Another Victory, Inc.\" and is the distributor of several record labels. It has featured many prominent artists including Thursday, Hawthorne Heights, Silverstein, Taking Back Sunday, Bayside, Streetlight Manifesto, and A Day to Remember. In September 2019, years after buying part of the label's catalogue, Concord bought Victory Records and Another Victory for $30 million. Craft Recordings has been managing Victory Record\u2019 catalog since Concord acquired the label. Victory has since not signed any new bands or released new records. Instead, the label operates for the current distribution of the label's alumni, as well as for reissues.",
+      "business_tags": [
+        "Taking Back Sunday",
+        "A Day To Remember",
+        "The Lost Boy",
+        "Girls Academy",
+        "Last Rites",
+        "Retail / Shopping",
+        "Music & Artists",
+        "Record Labels",
+        "Clothing Items",
+        "Music Publisher"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": "Retail",
+      "primary_phone": "+13126668661",
+      "phone_numbers": [
+        "+13126668661"
+      ],
+      "primary_email": null,
+      "emails": null,
+      "other_emails": null,
+      "website_url": "http://victoryrecords.com/",
+      "website_domain": "victoryrecords.com",
+      "website_tld": "com",
+      "website_language_code": "en",
+      "facebook_url": "https://www.facebook.com/VictoryRecords/",
+      "twitter_url": "https://twitter.com/victoryrecords",
+      "instagram_url": "https://www.instagram.com/VictoryRecords/",
+      "linkedin_url": "https://linkedin.com/company/victory-records",
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": "https://www.youtube.com/channel/UCCeHJu1yL8QMlxy19wjvsKg",
+      "cms": "wordpress",
+      "alexa_rank": null,
+      "technologies": [
+        "javascript libraries: lodash",
+        "ui frameworks: bootstrap",
+        "web frameworks: bootstrap",
+        "javascript libraries: jquery - 3.3.2",
+        "paas: wp engine",
+        "javascript frameworks: jquery - 3.3.2",
+        "javascript frameworks: react",
+        "javascript frameworks: lo-dash",
+        "javascript frameworks: jquery migrate - 3.3.2",
+        "miscellaneous: onetrust",
+        "font scripts: google font api",
+        "blogging platforms: wordpress",
+        "video players: youtube",
+        "miscellaneous: optanon",
+        "databases: mysql",
+        "captchas: recaptcha",
+        "miscellaneous: revslider",
+        "cookie compliance: onetrust",
+        "cdn: jsdelivr",
+        "seo tool: facebook friendly",
+        "javascript frameworks: fancybox",
+        "cms: wordpress",
+        "hosting: wp engine",
+        "javascript libraries: fancybox",
+        "wordpress plugins: revslider",
+        "tag managers: google tag manager",
+        "javascript libraries: jquery migrate - 3.3.2",
+        "seo tool: twitter friendly",
+        "cdn: cloudflare",
+        "programming languages: php",
+        "analytics: google analytics"
+      ],
+      "naics_2022": {
+        "primary": {
+          "code": "512250",
+          "label": "Record Production and Distribution"
+        },
+        "secondary": [
+          {
+            "code": "512230",
+            "label": "Music Publishers"
+          }
+        ]
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "4431",
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "3652",
+          "label": "Phonograph Records and Prerecorded Audio Tapes and Disks (integrated record companies, except duplication only)"
+        },
+        {
+          "code": "8999",
+          "label": "Services, NEC (record production)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": {
+        "code": "SV-ME",
+        "label": "Media & Entertainment"
+      },
+      "sics_subsector": {
+        "code": "SV.1",
+        "label": "Media"
+      },
+      "sics_sector": {
+        "code": "SV",
+        "label": "Services"
+      },
+      "ibc_insurance": [
+        {
+          "code": "489102",
+          "label": "Music / Sound Recording Studio"
+        },
+        {
+          "code": "740803",
+          "label": "Meeting and event planner"
+        },
+        {
+          "code": "792701",
+          "label": "Performing Arts Production"
+        },
+        {
+          "code": "599602",
+          "label": "Retail- Musical Instruments (Sales/Repairs)"
+        },
+        {
+          "code": "599301",
+          "label": "Retail - Books / Flowers / Stationery"
+        }
+      ],
+      "created_at": "2019-11-24T10:57:58.000Z",
+      "last_updated_at": "2023-09-12T22:07:18.749Z"
+    },
+    {
+      "soleadify_id": "33464857-93e5-11eb-8859-29e7c34dee35",
+      "keywords": {
+        "match_snippets": [
+          "Record Labels",
+          "Kunst Og Rock"
+        ]
+      },
+      "company_name": "TAMBOURHINOCEROS",
+      "company_legal_names": [
+        "TAMBOURHINOCEROS ApS."
+      ],
+      "company_commercial_names": [
+        "TAMBOURHINOCEROS"
+      ],
+      "main_country_code": "DK",
+      "main_country": "Denmark",
+      "main_region": "Capital Region Of Denmark",
+      "main_city": "Copenhagen",
+      "main_street": "Nyropsgade",
+      "main_street_number": "39",
+      "main_postcode": "1602",
+      "main_latitude": 55.676841735839844,
+      "main_longitude": 12.56114673614502,
+      "locations": [
+        {
+          "country_code": "DK",
+          "country": "Denmark",
+          "region": "Capital Region of Denmark",
+          "city": "Copenhagen",
+          "postcode": "1602",
+          "street": "Nyropsgade",
+          "street_number": "39",
+          "latitude": 55.676841735839844,
+          "longitude": 12.56114673614502
+        }
+      ],
+      "num_locations": 1,
+      "company_type": "Private",
+      "year_founded": 2010,
+      "employee_count": 5,
+      "estimated_revenue": 6500000,
+      "short_description": "We're a Copenhagen-based record label and music publisher working with adventurous music by artists we know and love.",
+      "long_description": "Tambourhinoceros is a Danish independent record label and Music publisher.",
+      "business_tags": [
+        "Music Publisher",
+        "Record Labels",
+        "Rough Trade",
+        "Demo Submission",
+        "Digital Advertising Services",
+        "Metadata Management",
+        "Digital Distribution",
+        "Media Monitoring",
+        "Copywriting",
+        "Management & Booking"
+      ],
+      "main_business_category": "Art & Music Publishers",
+      "main_industry": "Entertainment & Hobbies",
+      "main_sector": null,
+      "primary_phone": null,
+      "phone_numbers": null,
+      "primary_email": "licensing@tambourhinoceros.net",
+      "emails": [
+        "info@tambourhinoceros.net",
+        "demos@tambourhinoceros.net",
+        "licensing@tambourhinoceros.net"
+      ],
+      "other_emails": [
+        "denmarkinfo@tambourhinoceros.net",
+        "ndenmarkinfo@tambourhinoceros.net"
+      ],
+      "website_url": "https://tambourhinoceros.net/",
+      "website_domain": "tambourhinoceros.net",
+      "website_tld": "net",
+      "website_language_code": "en",
+      "facebook_url": "https://www.facebook.com/tambourhinoceros/",
+      "twitter_url": "https://twitter.com/tmbrhncrs",
+      "instagram_url": "https://www.instagram.com/tambourhinoceros/",
+      "linkedin_url": "http://www.linkedin.com/company/tambourhinoceros",
+      "ios_app_url": null,
+      "android_app_url": null,
+      "youtube_url": "https://www.youtube.com/user/TAMBOURHINOCEROS?sub_confirmation=1",
+      "cms": "drupal - 9",
+      "alexa_rank": null,
+      "technologies": [
+        "analytics: facebook custom audiences",
+        "ui frameworks: bootstrap",
+        "web frameworks: bootstrap",
+        "reverse proxy: nginx",
+        "widgets: facebook",
+        "retargeting: facebook custom audiences",
+        "cdn: jsdelivr",
+        "seo tool: facebook friendly",
+        "ecommerce: cart functionality",
+        "cms: drupal - 9",
+        "javascript libraries: jquery",
+        "retargeting: facebook",
+        "seo tool: twitter friendly",
+        "web servers: nginx",
+        "programming languages: php",
+        "javascript frameworks: jquery",
+        "analytics: google analytics"
+      ],
+      "naics_2022": {
+        "primary": {
+          "code": "512250",
+          "label": "Record Production and Distribution"
+        },
+        "secondary": [
+          {
+            "code": "512230",
+            "label": "Music Publishers"
+          }
+        ]
+      },
+      "nace_rev2": [
+        {
+          "code": "59.2",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "ncci_codes_28_1": [
+        "4431",
+        "7610"
+      ],
+      "sic": [
+        {
+          "code": "3652",
+          "label": "Phonograph Records and Prerecorded Audio Tapes and Disks (integrated record companies, except duplication only)"
+        },
+        {
+          "code": "8999",
+          "label": "Services, NEC (record production)"
+        }
+      ],
+      "isic_v4": [
+        {
+          "code": "5920",
+          "label": "Sound recording and music publishing activities"
+        }
+      ],
+      "sics_industry": {
+        "code": "SV-ME",
+        "label": "Media & Entertainment"
+      },
+      "sics_subsector": {
+        "code": "SV.1",
+        "label": "Media"
+      },
+      "sics_sector": {
+        "code": "SV",
+        "label": "Services"
+      },
+      "ibc_insurance": null,
+      "created_at": "2019-11-24T00:49:17.000Z",
+      "last_updated_at": "2023-07-08T01:26:49.000Z"
+    }
+  ]
+}

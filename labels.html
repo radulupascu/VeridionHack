@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Label Information</title>
+    <style>
+        @keyframes gradientAnimation {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        body {
+            font-family: 'Lato', sans-serif;
+            margin: 0;
+            padding: 40px;
+            background: linear-gradient(-45deg, #999, #fff, #999, #fff);
+            background-size: 400% 400%;
+            animation: gradientAnimation 15s ease infinite;
+            color: #444;
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+
+        table {
+            border-collapse: separate;
+            border-spacing: 0;
+            margin: 0 auto;
+            background-color: #fff;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 1000px;
+            border-radius: 15px;
+            overflow: hidden;
+        }
+
+        th, td {
+            padding: 15px 20px;
+            text-align: left;
+            border-bottom: 1px solid #eaeaea;
+        }
+
+        th {
+            background-color: #34495e;
+            color: #ecf0f1;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+
+        td {
+            font-size: 0.95em;
+            background-color: #ecf0f1;
+            color: #2c3e50;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        ul li {
+            padding: 3px 0;
+            color: #34495e;
+            font-weight: 400;
+        }
+
+        ul li:not(:last-child) {
+            border-bottom: 1px solid #eaeaea;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 20px;
+            }
+            table {
+                width: 100%;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            }
+            th, td {
+                padding: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="logo-container">
+        <img src="logo.png" alt="Music Company Logo" style="max-width: 100px; height: auto;">
+    </div>
+    <h1>Label Information</h1>
+    <table>
+        <tr>
+            <th>Company Name</th>
+            <th>Description</th>
+            <th>Country</th>
+            <th>Email</th>
+            <th>Website</th>
+            <th>Artists</th>
+        </tr>
+        <!-- Sample rows with dummy data -->
+        <tr>
+            <td>Example Company 1</td>
+            <td>Leading record label in pop music.</td>
+            <td>USA</td>
+            <td>contact@example1.com</td>
+            <td>www.example1.com</td>
+            <td>
+                <ul>
+                    <li>Artist 1</li>
+                    <li>Artist 2</li>
+                    <!-- More artists -->
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Example Company 2</td>
+            <td>Renowned for classical music.</td>
+            <td>UK</td>
+            <td>info@example2.co.uk</td>
+            <td>www.example2.co.uk</td>
+            <td>
+                <ul>
+                    <li>Artist 3</li>
+                    <li>Artist 4</li>
+                    <!-- More artists -->
+                </ul>
+            </td>
+        </tr>
+        <!-- Add more rows as needed -->
+    </table>
+</body>
+</html>
