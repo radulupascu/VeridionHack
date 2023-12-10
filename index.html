@@ -1,23 +1,130 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enhanced Audio Recorder</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Your Package Deals</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+
+        #header {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+
+        #main-section {
+            margin: 20px;
+            padding-left: 80px; /* Adjusted to accommodate the sidebar animation */
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .package {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            width: 300px;
+            text-align: center;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .package:hover {
+            transform: scale(1.05);
+        }
+
+        .package h2 {
+            color: #343a40;
+        }
+
+        .package p {
+            color: #6c757d;
+        }
+
+        .package button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .package button:hover {
+            background-color: #0056b3;
+        }
+
+        #footer {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+    </style>
 </head>
+
 <body>
-    <div class="container">
-        <h1>Enhanced Audio Recorder</h1>
-        <div class="buttons">
-            <button id="recordButton">Start Recording</button>
-            <button id="searchLabelButton" disabled>Search Label</button>
+
+    <header id="header">
+        <h1>Your Package Deals</h1>
+    </header>
+
+
+    <section id="main-section">
+        <div class="package" id="client-package">
+            <h2>Client Package</h2>
+            <p>Perfect for individual clients who need our services. Unlimited queries.</p>
+            <p>Price: $19.99/month</p>
+            <button onclick="purchase('client')">Purchase</button>
         </div>
-        <div id="timeBarContainer">
-            <div id="timeBar"></div>
+
+        <div class="package" id="company-package">
+            <h2>Company Package</h2>
+            <p>Designed for companies that require our specialized solutions.</p>
+            <p>For business enquires:</p>
+            <button onclick="purchase('company')">Contact us</button>
         </div>
-        <audio id="audioPlayback" controls></audio>
-    </div>
-    <script src="script.js"></script>
+
+        <div class="package" id="yearly-package">
+            <h2>Yearly Subscription</h2>
+            <p>Get a full year of our services at a discounted rate.</p>
+            <p>Price: $199.99/year</p>
+            <button onclick="purchase('yearly')">Purchase</button>
+        </div>
+
+        <div class="package" id="monthly-package">
+            <h2>Monthly Subscription</h2>
+            <p>Pay monthly for our services with flexibility.</p>
+            <p>Price: $29.99/month</p>
+            <button onclick="purchase('monthly')">Purchase</button>
+        </div>
+    </section>
+
+    <footer id="footer">
+        &copy; 2023 Your Company Name
+    </footer>
+
+    <script>
+        function purchase(packageType) {
+            // You can add logic here to handle the purchase based on the packageType
+            alert(`Thank you for choosing the ${packageType} package!`);
+        }
+    </script>
 </body>
+
 </html>
